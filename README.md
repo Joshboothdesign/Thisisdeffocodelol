@@ -10,8 +10,6 @@ This code usually runs off of less than 6 hours sleep and spends excessive amoun
 
 **This code will usually crash at 2am**
 
-This code will usually create complex After Effects and Cinema 4D files without labelling or ordering anything causing to errors and a lack of efficiency, however it is able to eventually produce a final outcome.
-
 This code will also listen to the same set of songs on repeat for a month or two until he eventually gets bored of it and never listens to it again until around 3 months later where the code repeats.
 
 Thank you for reading this read me file.
